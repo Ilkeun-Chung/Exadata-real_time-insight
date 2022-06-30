@@ -2,6 +2,7 @@
 Exadata 22.1 real-time insight ELK
 
 1. enable and stream from Exadata DB server and Strage Server 
+
 https://docs.oracle.com/en/engineered-systems/exadata-database-machine/sagug/exadata-storage-server-monitoring.html#GUID-8448C324-784E-44F5-9D44-9CB5C697E436
 
 2. Install Elasticsearch, kibana and logstash
