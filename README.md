@@ -8,7 +8,7 @@ https://docs.oracle.com/en/engineered-systems/exadata-database-machine/sagug/exa
 
 3. import rti-korea-export-YYYYMMDD.ndjson in kibana
 
-4. run logstash with xxxx.conf
+4. run logstash with Exadata-rti-sample.conf
 
 
 
